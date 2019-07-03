@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c0fc5b27.chunk.css",
+    "main.js": "./static/js/main.bdd40e90.chunk.js",
+    "main.js.map": "./static/js/main.bdd40e90.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.0624914a.chunk.css": "./static/css/2.0624914a.chunk.css",
+    "static/js/2.8a2aed7c.chunk.js": "./static/js/2.8a2aed7c.chunk.js",
+    "static/js/2.8a2aed7c.chunk.js.map": "./static/js/2.8a2aed7c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.869f191d1be03c043e62e490770e14e7.js": "./precache-manifest.869f191d1be03c043e62e490770e14e7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "./static/css/2.0624914a.chunk.css.map",
+    "static/css/main.c0fc5b27.chunk.css.map": "./static/css/main.c0fc5b27.chunk.css.map",
+    "static/media/index.css": "./static/media/ccai-bg.57521a7b.png",
+    "static/media/android-app.png": "./static/media/android-app.b6b864f4.png",
+    "static/media/chris-gallagher-4zxp5vlmvnI-unsplash.jpg": "./static/media/chris-gallagher-4zxp5vlmvnI-unsplash.03cc876a.jpg",
+    "static/media/desmond-simon-e72_wF3daBE-unsplash.jpg": "./static/media/desmond-simon-e72_wF3daBE-unsplash.058a1427.jpg",
+    "static/media/joanne-francis-S9NQnIV4zOI-unsplash.jpg": "./static/media/joanne-francis-S9NQnIV4zOI-unsplash.02fc592e.jpg",
+    "static/media/logo.svg": "./static/media/logo.5fd853bb.svg",
+    "static/media/marcus-kauffman--iretlQZEU4-unsplash.jpg": "./static/media/marcus-kauffman--iretlQZEU4-unsplash.df918d3c.jpg"
+  }
+}
